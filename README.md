@@ -1,3 +1,3 @@
-# Image Captioning by Fine-tunning ViT
+# Image Captioning by Fine-tuning ViT
 
 In this notebook, we will implement image captioning using a vision transformer. The application of pretrained ViT models for image captioning involves associating a textual description with an image, providing a comprehensive account of its contents. This procedure entails converting an image into a written narrative, establishing a connection between the domains of vision (image) and language (text). In the context of this document, we showcase how Vision Transformers (ViT) can execute this task when applied to images, utilizing the PyTorch backend as our primary technology. The goal is to demonstrate fine-tunning ViTs, for generating image captions without the necessity of retraining from scratch.
